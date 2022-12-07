@@ -1,0 +1,8 @@
+Category	              Tools Name
+Configuration Tools:	  Chef, Ansible, Puppet
+Continuous Integration:	Jenkins
+Microservices	:         Docker
+Collaboration:        	Slack, Trello
+Monitoring:           	Kibana, Grafana
+Development	:           Visual Studio
+VERSIONMANGAMENT        gitlab
